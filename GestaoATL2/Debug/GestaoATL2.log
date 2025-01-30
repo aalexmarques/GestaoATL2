@@ -1,0 +1,9 @@
+﻿  inscricao.c
+C:\Users\guimu\source\repos\GestaoATL2\GestaoATL2\inscricao.c(64,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guimu\source\repos\GestaoATL2\GestaoATL2\inscricao.c(83,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+  utils.c
+C:\Users\guimu\source\repos\GestaoATL2\GestaoATL2\utils.c(50,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\guimu\source\repos\GestaoATL2\GestaoATL2\utils.c(69,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  GestaoATL2.vcxproj -> C:\Users\guimu\source\repos\GestaoATL2\Debug\GestaoATL2.exe
